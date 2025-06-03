@@ -1,0 +1,27 @@
+Exercício 1: Olá Mundo e Seu Nome
+
+Declare uma variável do tipo string para armazenar seu nome. Peça ao usuário para digitar o 
+nome e, em seguida, imprima uma mensagem de saudação usando o nome digitado.
+
+Exercício 2: Calculadora Simples
+
+Declare duas variáveis inteiras para armazenar números. Peça ao usuário para digitar esses
+dois números. Em seguida, realize as quatro operações matemáticas básicas (adição,
+subtração, multiplicação e divisão) com esses números e imprima o resultado de cada operação.
+
+Exercício 3: Conversor de Temperatura (Celsius para Fahrenheit)
+
+Declare uma variável de ponto flutuante (por exemplo, double) para armazenar uma 
+temperatura em Celsius. Peça ao usuário para digitar essa temperatura. Converta a temperatura 
+para Fahrenheit usando a fórmula F=C∗1.8+32 e imprima o resultado.
+
+Exercício 4: Troca de Valores
+
+Declare duas variáveis inteiras e atribua valores iniciais a elas. Sem usar números literais na 
+atribuição, troque os valores dessas duas variáveis. Ao final, imprima os valores das variáveis 
+para mostrar que a troca foi bem-sucedida.
+
+Exercício 5: Média de Notas
+
+Declare três variáveis de ponto flutuante para armazenar notas. Peça ao usuário para digitar 
+as três notas. Calcule a média aritmética dessas notas e imprima o valor da média.
