@@ -1,0 +1,16 @@
+Exercício 1: Verificador de Idade para Voto
+
+Escreva um programa que peça ao usuário para digitar sua idade. Use uma estrutura if/else 
+para determinar se a pessoa tem idade suficiente para votar (considerando 16 anos ou mais no 
+Brasil) e imprima uma mensagem apropriada: "Você pode votar!" ou "Você ainda não tem idade 
+para votar.".
+
+Exercício 2: Classificador de Números
+
+Peça ao usuário para digitar um número inteiro. Utilize if/else para verificar se o número é 
+positivo, negativo ou zero. Imprima a classificação correspondente.
+
+Exercício 3: Par ou Ímpar (Revisado)
+
+Este é um clássico! Peça ao usuário para digitar um número inteiro. Use o operador de módulo 
+(%) junto com if/else para determinar se o número é par ou ímpar. Imprima a resposta.
