@@ -19,3 +19,12 @@ Questão 4: Verificação de Login Simples
 
 Escreva um programa em C++ que simule um sistema de login simples. 
 O programa deve pedir ao usuário um nome de usuário e uma senha.
+
+Questão 4: Classificador de Notas
+
+Escreva um programa em C++ que solicite ao usuário que digite uma nota (um número inteiro de 0 a 100). Com base nessa nota, o programa deve usar estruturas if-else if-else para classificar o desempenho do aluno e exibir uma mensagem correspondente:
+
+    90 a 100: Exiba "Excelente! Parabéns!"
+    70 a 89: Exiba "Bom trabalho!"
+    50 a 69: Exiba "Regular. Precisa melhorar."
+    0 a 49: Exiba "Insuficiente. Estude mais!"
