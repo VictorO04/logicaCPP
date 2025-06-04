@@ -14,3 +14,8 @@ Exercício 3: Par ou Ímpar (Revisado)
 
 Este é um clássico! Peça ao usuário para digitar um número inteiro. Use o operador de módulo 
 (%) junto com if/else para determinar se o número é par ou ímpar. Imprima a resposta.
+
+Questão 4: Verificação de Login Simples
+
+Escreva um programa em C++ que simule um sistema de login simples. 
+O programa deve pedir ao usuário um nome de usuário e uma senha.
