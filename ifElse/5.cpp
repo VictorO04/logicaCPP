@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    float nota;
+    double nota;
 
     cout << "Digite sua nota: ";
     cin >> nota;

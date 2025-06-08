@@ -6,7 +6,7 @@ int main() {
     
     cout << "Digite a temperatura em graus celsius: ";
     cin >> c;
-    cout << c << " graus celsius e igual a " << (c * 1.8) + 32 << " graus Fahrenheit" << endl;
+    cout << c << " graus celsius e igual a " << (c * 1.8) + 32 << " graus Fahrenheit\n";
 
     return 0;
 }
